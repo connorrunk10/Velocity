@@ -1,0 +1,7 @@
+{
+  "name": "Velocity - Daily Speed Challenge",
+  "description": "A high-octane social platform for racing enthusiasts to track their daily top speeds, compete on leaderboards, and connect with racing buddies. Features real-time speed tracking, passenger safety modes, and AI-powered racing strategy.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
